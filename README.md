@@ -1,1 +1,3 @@
 # AllPatterns
+
+few patterns changed place.....
